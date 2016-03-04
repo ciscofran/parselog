@@ -1,0 +1,12 @@
+Oct 21 09:22:24 localhost kernel: (E6)[   1184233.385276] qla2xxx_ts[16/0/5:1]: HBA Driver control of SLIC LEDs enabled.
+Oct 21 09:22:24 localhost kernel: (E6)[   1184233.385276] qla2xxx_ts[16/0/5:1]: HBA Driver control of SLIC error1 enabled.
+Oct 21 09:22:24 localhost kernel: (E4)[   1184233.418279]   DEL EP2831 DEL - 2-Port 16Gb Fiber Channel SLIC with EP2831
+Oct 21 09:22:24 localhost kernel: (E6)[   1184233.832178] qla2xxx_ts[17/1/5:2]: HBA Driver control of SLIC LEDs enabled.
+Oct 21 09:22:24 localhost kernel: (E6)[   1184233.832178] qla2xxx_ts[17/1/5:2]: HBA Driver control of SLIC error1 enabled.
+Oct 21 09:22:24 localhost kernel: (E4)[   1184233.865200]   DEL EP2831 DEL - 2-Port 16Gb Fiber Channel SLIC error2 EP2831
+Oct 21 09:22:24 localhost kernel: (E4)[   1184233.865200]   DEL EP2831 DEL - 2-Port 16Gb Fiber Channel SLIC error3 EP2831
+Oct 21 09:22:24 localhost kernel: (E4)[   1184233.865200]   DEL EP2831 DEL - 2-Port 16Gb Fiber Channel SLIC with EP2831
+Oct 21 09:22:24 localhost kernel: (E6)[   1184234.007263] qla2xxx_ts[16/0/5:1]: HBA Driver control of SLIC LEDs enabled.
+Oct 21 09:22:25 localhost kernel: (E6)[   1184235.012602] qla2xxx_ts[17/1/5:2]: HBA Driver control of SLIC LEDs enabled.
+Oct 21 09:22:24 localhost kernel: (E4)[   1184233.865200]   DEL EP2831 DEL - 2-Port 16Gb Fiber Channel SLIC error3 EP2831
+Oct 21 09:22:24 localhost kernel: (E4)[   1184233.865200]   DEL EP2831 DEL - 2-Port 16Gb Fiber Channel SLIC some-error4 EP2831
